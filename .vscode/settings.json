@@ -5,6 +5,7 @@
         "imagesloaded",
         "keycodes",
         "postsync",
+        "textdomain",
         "wordcount"
     ]
 }
